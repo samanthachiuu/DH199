@@ -1,4 +1,4 @@
-# DH199 Project: Exploring UCLA History 
+# DH199 Project: User Experience Design in Exploring UCLA History 
 ## Samantha Chiu 
 
 ### Project Description:
@@ -19,10 +19,17 @@ The expected outcome of my project is a map-directory and walkthrough of UCLA ar
 
 --------------------
 
-### 10-week Tentative Schedule 
+**Research Question:**
+How does the user experience design of a location-based map help engage users to increase their understanding in the history of architecture?   
+
+**Proposal Topic / Keywords:** *location-based map, design, engagement, history of architecture, user experience*
+
+
+
+### 10-week Project Schedule 
 #### Week 1: Introduction 
 
-#### Week 2: Secondary Research and Writeup
+#### Week 2: Literature Review, Secondary Research and Writeup
 
 #### Week 3: Field Research Plan 
 
