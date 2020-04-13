@@ -19,10 +19,32 @@ The expected outcome of my project is a map-directory and walkthrough of UCLA ar
 
 --------------------
 
+### Literature Review 
+
 **Research Question:**
 How does the user experience design of a location-based map help engage users to increase their understanding in the history of architecture?   
 
 **Proposal Topic / Keywords:** *location-based map, design, engagement, history of architecture, user experience*
+
+Understanding the history of architecture can be difficult when individuals are not provided with the accurate techniques and skills to visualize the buildings. Allais explains in his chapter of his book *RENDERING: On Experience and Experiments* that one of the most important aspects of allowing others to be engaged in the history is to render the buildings and structures. 
+
+In the book *Visual Spatial Enquiry - Diagrams and Metaphors for Architects and Spatial Thinkers*, Creagh and McGann explain the usefulness of spatial research in comprehending architecture. When there is a complex concept, it is easier to visualize through an image. This idea of visualizing space can help individuals with new and innovative propositions that can reshape the relational settings. 
+
+The usefulness of interactive tools that signify 3D architectual modeling - 
+Fonseca, Redondo, and Villagrasa talk about the advantages and disadvantages of using this type of technology to evaluate different types of architecture throughout history. 
+
+
+
+**Citations:** (APA)
+Creagh, R. (Ed.), McGann, S. (Ed.). (2019). Visual Spatial Enquiry. London: Routledge, https://doi.org/10.4324/9781315182766
+
+ALLAIS, L. (2020). RENDERING: On Experience and Experiments. In Alexander Z. & May J. (Eds.), Design Technics: Archaeologies of Architectural Practice (pp. 1-44). MINNEAPOLIS; LONDON: University of Minnesota Press. doi:10.5749/j.ctvtv938x.5
+
+Fonseca, D., Redondo, E., & Villagrasa, S. (2015). Mixed-methods research: A new approach to evaluating the motivation and satisfaction of university students using advanced visual technologies. Universal Access in the Information Society, 14(3), 311-332. doi:10.1007/s10209-014-0361-4
+
+
+
+
 
 
 
