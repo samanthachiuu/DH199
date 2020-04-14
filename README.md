@@ -43,6 +43,7 @@ Importance of context of the architecture must be taken into account in every st
 Context of what is going on within the time that people might be using the app is as important. Users will be more inclined to use and understand the history of architecture when it is relatable to their lives and their generation. You want the information to be relative to the traditional media. 
 
 
+
 **Citations:** (APA)
 Creagh, R. (Ed.), McGann, S. (Ed.). (2019). Visual Spatial Enquiry. London: Routledge, https://doi.org/10.4324/9781315182766
 
