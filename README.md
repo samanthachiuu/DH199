@@ -1,3 +1,5 @@
+.remark-code, .remark-inline-code { font-family: 'Source Code Pro', 'Lucida Console', Monaco, monospace; }
+
 # DH199 Project: User Experience Design in Exploring UCLA History 
 # Samantha Chiu
 
