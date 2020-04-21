@@ -19,6 +19,8 @@ to it. To produce an interactive prototype of a mobile app as a proof of concept
 ### Expected Outcome:
 The expected outcome of my project is a map-directory and walkthrough of UCLA architures in history, specifically focusing on Haines Hall. I will adopt an interative user-centered design process using methods such as conducting user research, creating personas/scenarios, and proposing multiple versions of the wireflow (low-fidelity) and interactive prototype (high-fidelity) for usability testing.
 
+--------------------
+
 ### 10-week Project Schedule: 
 
 - **Week 1** | Introduction and Citi Certificate
@@ -39,8 +41,12 @@ The expected outcome of my project is a map-directory and walkthrough of UCLA ar
 ### Research Question:
 How does the user experience design of a location-based map help engage users to increase their understanding in the history of architecture?   
 
+--------------------
+
 ### Proposal Topic / Keywords:
 *location-based map, design, engagement, history of architecture, user experience* 
+
+--------------------
 
 ### Literature Review
 Mobile learning has become an effective way to educate individuals in the 21st century. We are constantly on our phones and spending most of our days browsing through the web on our little screens. From the book, Mobile Design Pattern Gallery: UI patterns for smartphone apps, Neil goes through different design techniques that can improve mobile applications. He states that having an interactive preview in applications where users can zoom in and feel connected to the information can help with the design of mobile apps.Therefore, technology has become something we can work with to learn and gain knowledge. "The digital has rapidly become a significant medium in the ‘nexus of historical meanings and experiences’" (Smith, Lewi, Nichols, 2018). Smith, Lewi, and Nichols reflect on the design of a mobile app that is supposed to share the history of Port Melbourne through collaboration from other’s knowledge of the history. In their paper ‘PastPort’: Reflections on the Design of a Mobile App for Citizen Heritage in Port Melbourne, one of the most outstanding things they noticed was that they hoped the application would focus on a smaller locality so that the individuals sharing historical information would also focus on a certain part of the city and that there would be a higher interest in sharing information. People can become overwhelmed with too much information if the area of focus is so broad. Additionally, Smith, Lewi, and Nichols insists that researchers and designers take advantage of the technology we have today. They explain the importance of using interactive maps and contemporary digital technologies such as pinned map locations, so users are more inclined to use it. Especially with technology constantly improving and evolving, we need to keep updating the different technologies used for any mobile application.
