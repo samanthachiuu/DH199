@@ -89,9 +89,21 @@ The different types of users that might use this app include college students, h
 ---------------------
 
 ### Context and Research Method:
-The research method I decided to do is a phone interview with one of the campus tour guides at UCLA. Campus tour guides are well-trained students that tour prospective students and parents around UCLA and tell them about the history and fun facts of UCLA. Additionally, I will be looking at the UCLA virtual tour on the website for an observation. 
+The research method I decided to do is a phone interview with one of the campus tour guides at UCLA. Campus tour guides are well-trained students that tour prospective students and parents around UCLA and tell them about the history and fun facts of UCLA. I will be calling her in the afternoon for a 30 minute call in my room and asking her questions directly. Additionally, I will be looking at the UCLA virtual tour on the website for an observation. 
 
+#### Field Research Script:
+[view...](https://docs.google.com/document/d/1Ed5NBZPO8Nm6eO4f1cfKMQZv78-98mTA9WqHzhNIOJM/edit?usp=sharing)
 
+#### Interview Transcript:
+[view...](https://docs.google.com/document/d/10-FsOEX7I2SuvV_-xeW7G-F7q_UTDsj4kkMP1j3ucNw/edit?usp=sharing)
 
+#### Recording:
+[view...](https://drive.google.com/file/d/1WpJXk3PP87Ycqw0vSuWlEJTgMrf9d4Im/view?usp=sharing)
 
+-----------------------
+
+### Reflection
+Throughout this process, I learned the techniques in conducting a phone interview for my research. I had trouble thinking about different questions to ask in the beginning because I wanted to make sure I asked good questions. The interview went really well and I noticed that your script is not exactly what you have to say. As the interview went on, I noticed I changed the script as the interview flowed so it was natural. Sometimes I changed up the questions because I felt it was unnecessary to ask or if she already answered it in another question. I learned that when interviewing participants, anything can happen. You can never know exactly what the participant will say and you as the interviewer have to be ready to ask questions that may not be in your script but within the context of the interview. What I would do differently next time is to have more focused tasks for the participant to do because I feel as though it was quite repetitive. I could also potentially add one more task to test another aspect within learning about how people might learn about the history of UCLA. 
+
+------------------------
 
