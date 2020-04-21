@@ -1,7 +1,8 @@
 # DH199 Project: User Experience Design in Exploring UCLA History 
-# Samantha Chiu 
+Samantha Chiu 
 
 ## Project Overview
+
 ### Project Description:
 In this project, I would like to propose the ux design for the walkthrough of UCLA architectures in history. I am
 motivated to do this project because I want to take advantage of the time I have left as an undergrad to
