@@ -91,19 +91,10 @@ The different types of users that might use this app include college students, h
 ### Context and Research Method:
 The research method I decided to do is a phone interview with one of the campus tour guides at UCLA. Campus tour guides are well-trained students that tour prospective students and parents around UCLA and tell them about the history and fun facts of UCLA. I will be calling her in the afternoon for a 30 minute call in my room and asking her questions directly. Additionally, I will be looking at the UCLA virtual tour on the website for an observation. 
 
-#### Field Research Script: | #### Interview Transcript: | #### Recording:
--------------- | ------------------ | ----------------
-[view...](https://docs.google.com/document/d/1Ed5NBZPO8Nm6eO4f1cfKMQZv78-98mTA9WqHzhNIOJM/edit?usp=sharing)| [view...](https://docs.google.com/document/d/10-FsOEX7I2SuvV_-xeW7G-F7q_UTDsj4kkMP1j3ucNw/edit?usp=sharing)| [view...](https://drive.google.com/file/d/1WpJXk3PP87Ycqw0vSuWlEJTgMrf9d4Im/view?usp=sharing)
 
-**Field Research Script** | **Interview Transcript** | **Recording**
+**Field Research Script** | **Interview Transcript** | **Audio Recording Interview**
 -------------------- | --------------------- | -------------------------
 [view...](https://docs.google.com/document/d/1Ed5NBZPO8Nm6eO4f1cfKMQZv78-98mTA9WqHzhNIOJM/edit?usp=sharing)|[view...](https://docs.google.com/document/d/10-FsOEX7I2SuvV_-xeW7G-F7q_UTDsj4kkMP1j3ucNw/edit?usp=sharing)|[view...](https://drive.google.com/file/d/1WpJXk3PP87Ycqw0vSuWlEJTgMrf9d4Im/view?usp=sharing)
-
-#### Interview Transcript:
-[view...](https://docs.google.com/document/d/10-FsOEX7I2SuvV_-xeW7G-F7q_UTDsj4kkMP1j3ucNw/edit?usp=sharing)
-
-#### Recording:
-[view...](https://drive.google.com/file/d/1WpJXk3PP87Ycqw0vSuWlEJTgMrf9d4Im/view?usp=sharing)
 
 -----------------------
 
