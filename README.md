@@ -41,7 +41,8 @@ In the book chapter, Context-Architecture and the Genius of Place, Parry talks a
 I also looked at a similar mobile application, London Architecture Guide, where it allowed users to look at different architectures in London. The main screen is an interactive map for users to scroll through. However, I wish that there was a satellite view of the map to look more realistic and eye-appealing. If you zoom in, there are many blue dots to show the different architectures, as I think it would have been better to color coordinate the different types of architectures so users know the difference. I liked that the application gives the users the option to choose through the architectures through a list. I believe that the history of the architecture itself is quite wordy as if I was a tourist using this application, I would like to read more historical fun facts about the buildings rather than a history report. Overall, I feel the application has a lot of features for individuals to use, but the user interface and design can be improved to better attract the users.   
 
 
-**Citations:** (APA)
+**Citations:** 
+
 Creagh, R. (Ed.), McGann, S. (Ed.). (2019). Visual Spatial Enquiry. London: Routledge, https://doi.org/10.4324/9781315182766
 
 ALLAIS, L. (2020). RENDERING: On Experience and Experiments. In Alexander Z. & May J. (Eds.), Design Technics: Archaeologies of Architectural Practice (pp. 1-44). MINNEAPOLIS; LONDON: University of Minnesota Press. doi:10.5749/j.ctvtv938x.5
@@ -53,8 +54,6 @@ Neil, T. (2014). Mobile design pattern gallery: UI patterns for smartphone apps 
 Wally Smith, Hannah Lewi & David Nichols (2018) ‘PastPort’: Reflections on the Design of a Mobile App for Citizen Heritage in Port Melbourne, Australian Historical Studies, 49:1, 103-125, DOI: 10.1080/1031461X.2017.1407350
 
 Parry, E. (2015). Context-Architecture and the Genius of Place. AD Primers Context. John Wiley & Sons Ltd, 78-105. DOI:10.1002/9781118945674
-
-
 
 
 
