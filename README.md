@@ -1,5 +1,5 @@
 # DH199 Project: User Experience Design in Exploring UCLA History 
-**Samantha Chiu** 
+## Samantha Chiu
 
 ## Project Overview
 
