@@ -89,7 +89,7 @@ The different types of users that might use this app include college students, h
 ---------------------
 
 ### Context and Research Method:
-The research method I decided to do is a phone interview with one of the campus tour guides at UCLA. Campus tour guides are well-trained students that tour prospective students and parents around UCLA and tell them about the history and fun facts of UCLA. Additionally, I will be looking at the UCLA virtual tour on their website for an observation. I will use the virtual tour like I am a prospective student and have never been on the campus or know anything about UCLA. Then I will jot down notes on what I noticed and observed through the virtual tour. 
+The research method I decided to do is a phone interview with one of the campus tour guides at UCLA. Campus tour guides are well-trained students that tour prospective students and parents around UCLA and tell them about the history and fun facts of UCLA. In this virtual phone interview, I will be directly asking questions about giving tours at UCLA and the type of information said on the tours. I hope for the interview to be around 30 minutes and I will be doing it in my room around noon time. Additionally, I will be looking at the UCLA virtual tour on their website for an observation. I will use the virtual tour like I am a prospective student and have never been on the campus or know anything about UCLA. Then I will jot down notes on what I noticed and observed through the virtual tour. 
 
 
 **Field Research Script** | **Interview Transcript** | **Audio Recording Interview**
