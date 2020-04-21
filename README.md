@@ -56,22 +56,14 @@ Wally Smith, Hannah Lewi & David Nichols (2018) ‘PastPort’: Reflections on t
 Parry, E. (2015). Context-Architecture and the Genius of Place. AD Primers Context. John Wiley & Sons Ltd, 78-105. DOI:10.1002/9781118945674
 
 ### 10-week Project Schedule: 
-**Week** | **Assignment**
------------- | -------------
+
 #### Week 1 | Introduction and Citi Certificate
------------ | --------------
 #### Week 2 | Literature Review and Secondary Research
------------ | --------------
 #### Week 3 | Field Research Plan 
------------ | --------------
 #### Week 4 | Field Research Findings
------------ | --------------
 #### Week 5 | Personas and Journey Maps
------------ | --------------
 #### Week 6 | Wireflows and Sketch of Prototype
------------ | --------------
 #### Week 7 | Low Fidelity Prototype
------------ | --------------
 #### Week 8 | High Fidelity Prototype
 #### Week 9 | Usability Testing
 #### Week 10 | Finalize Report
