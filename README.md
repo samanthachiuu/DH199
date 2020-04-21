@@ -34,8 +34,6 @@ The expected outcome of my project is a map-directory and walkthrough of UCLA ar
 - **Week 9** | Usability Testing
 - **Week 10** | Finalize Report
 
---------------------
-
 ## Literature Review & Secondary Research
 
 ### Research Question:
@@ -57,6 +55,7 @@ Other than visualizing space through an application, interactive models are also
  
 I also looked at a similar mobile application, London Architecture Guide, where it allowed users to look at different architectures in London. The main screen is an interactive map for users to scroll through. However, I wish that there was a satellite view of the map to look more realistic and eye-appealing. If you zoom in, there are many blue dots to show the different architectures, as I think it would have been better to color coordinate the different types of architectures so users know the difference. I liked that the application gives the users the option to choose through the architectures through a list. I believe that the history of the architecture itself is quite wordy as if I was a tourist using this application, I would like to read more historical fun facts about the buildings rather than a history report. Overall, I feel the application has a lot of features for individuals to use, but the user interface and design can be improved to better attract the users.   
 
+--------------------
 
 **Citations:** 
 
@@ -71,6 +70,28 @@ Neil, T. (2014). Mobile design pattern gallery: UI patterns for smartphone apps 
 Wally Smith, Hannah Lewi & David Nichols (2018) ‘PastPort’: Reflections on the Design of a Mobile App for Citizen Heritage in Port Melbourne, Australian Historical Studies, 49:1, 103-125, DOI: 10.1080/1031461X.2017.1407350
 
 Parry, E. (2015). Context-Architecture and the Genius of Place. AD Primers Context. John Wiley & Sons Ltd, 78-105. DOI:10.1002/9781118945674
+
+## User Research Planning 
+
+### Activity:
+The main activity of my project would support the users to understand the history of the main architectures, like Royce Hall, at UCLA. According to Maslow’s Hierarchy of Needs, some specific users, like UCLA students would need the social belonging involved in this activity. The “social belonging” is the third level of the human needs of Maslow’s pyramid and is related to understanding the history of the different architectures at UCLA. Depending on the type of user, one can feel a sense of belonging after understanding the history because they can be a student there themselves. However, if users were visitors like parents or friends or even potential students, they might strive for a sense of connectedness to their personal lives so they can feel psychologically closer to important buildings that represent UCLA. It can potentially increase their experience at UCLA and create a positive memory towards UCLA brand identity. They can also simply enjoy the beauty of the different parts of the physical building itself and its meaning with it. 
+
+------------------
+
+### Solutions:
+The current or traditional solution that would satisfy the needs of the users is researching what you want to know about UCLA on your own through Google or the school website so you know more about the history. You can also walk through campus on your own and try to find monuments that provide some history about the buildings. Some limitations that possibly would be improved with digital technology is a location-based tracker where it can automatically track where you are on campus and provide immediate fun facts on the building. Therefore, it is more convenient and more efficient to get around campus, while learning about the history and feel more connected to the school. 
+
+-----------------------
+
+### Target Users:
+The different types of users that might use this app include college students, high school students preparing to come to college, tourists, and professors or staff that work at UCLA. I want to focus mainly on college students and prospective students because I feel that the app would benefit them more. They would use the app when they are walking around campus and want to learn more about the different architectures. The goal of the user is to feel more connected to UCLA and know more about the history of how it got to where it is today. 
+
+---------------------
+
+### Context and Research Method:
+The research method I decided to do is a phone interview with one of the campus tour guides at UCLA. Campus tour guides are well-trained students that tour prospective students and parents around UCLA and tell them about the history and fun facts of UCLA. Additionally, I will be looking at the UCLA virtual tour on the website for an observation. 
+
+
 
 
 
