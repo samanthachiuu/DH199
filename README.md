@@ -93,14 +93,13 @@ The research method I decided to do is a phone interview with one of the campus 
 
 ## User Research Data & Findings
 
-**UCLA Virtual Tour** | 
-------------|
-![UCLA Tour](file:///Users/samanthachiu/Desktop/Screen%20Shot%202020-04-21%20at%203.25.02%20PM.png)|
+**UCLA Virtual Tour** | **Observation Notes** 
+------------ | -----------------
+![UCLA Tour](file:///Users/samanthachiu/Desktop/Screen%20Shot%202020-04-28%20at%209.45.07%20PM.png)|[view...](https://docs.google.com/document/d/1PcV1yO56IycTNLiAUojWfQMGolhKHpW-axcbpkmYGUY/edit?usp=sharing)
 
-**Field Research Script** | **Interview Transcript** | **Audio Recording Interview** | **Observation Notes** 
--------------------- | --------------------- | ------------------------- | ------------------------
-[view...](https://docs.google.com/document/d/1Ed5NBZPO8Nm6eO4f1cfKMQZv78-98mTA9WqHzhNIOJM/edit?usp=sharing)|[view...](https://docs.google.com/document/d/10-FsOEX7I2SuvV_-xeW7G-F7q_UTDsj4kkMP1j3ucNw/edit?usp=sharing)|[view...](https://drive.google.com/file/d/1WpJXk3PP87Ycqw0vSuWlEJTgMrf9d4Im/view?usp=sharing)|[view...](https://docs.google.com/document/d/1PcV1yO56IycTNLiAUojWfQMGolhKHpW-axcbpkmYGUY/edit?usp=sharing)
-
+**Field Research Script** | **Interview Transcript** | **Audio Recording Interview** | **User Research Data**
+-------------------- | --------------------- | ------------------------- | ----------------------
+[view...](https://docs.google.com/document/d/1Ed5NBZPO8Nm6eO4f1cfKMQZv78-98mTA9WqHzhNIOJM/edit?usp=sharing)|[view...](https://docs.google.com/document/d/10-FsOEX7I2SuvV_-xeW7G-F7q_UTDsj4kkMP1j3ucNw/edit?usp=sharing)|[view...](https://drive.google.com/file/d/1WpJXk3PP87Ycqw0vSuWlEJTgMrf9d4Im/view?usp=sharing)|[view...](https://docs.google.com/spreadsheets/d/15nUpnfnT3Ax_3uhRSAfhKitBTKW3rX5pvhPuNaiVYYg/edit?usp=sharing)
 -----------------------
 
 ### Findings
