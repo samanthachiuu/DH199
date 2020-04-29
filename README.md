@@ -95,7 +95,7 @@ The research method I decided to do is a phone interview with one of the campus 
 
 **UCLA Virtual Tour** | **Observation Notes** 
 ------------ | -----------------
-![UCLA Tour](file:///Users/samanthachiu/Desktop/Screen%20Shot%202020-04-28%20at%209.45.07%20PM.png)|[view...](https://docs.google.com/document/d/1PcV1yO56IycTNLiAUojWfQMGolhKHpW-axcbpkmYGUY/edit?usp=sharing)
+![UCLA Tour](https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/e5/3c/b5/e53cb5c4-142d-246d-db63-69b77a670900/pr_source.png/750x750bb.jpeg)|[view...](https://docs.google.com/document/d/1PcV1yO56IycTNLiAUojWfQMGolhKHpW-axcbpkmYGUY/edit?usp=sharing)
 
 **Field Research Script** | **Interview Transcript** | **Audio Recording Interview** | **User Research Data**
 -------------------- | --------------------- | ------------------------- | ----------------------
