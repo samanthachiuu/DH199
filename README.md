@@ -103,7 +103,7 @@ The research method I decided to do is a phone interview with one of the campus 
 -----------------------
 
 ### Findings
-Through my research, I found that 
+Through my research, I found that users needs are the accessibility to the application, the connection to others and themselves, and the importance of an interactive and in-person walk through of the campus. Some design requirements would include an interactive and personable map where users are able to feel like they are actually on campus exploring the buildings, and features that allow users to filter the information to the specific user wants and needs. 
 
 -------------------------
 
