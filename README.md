@@ -112,3 +112,6 @@ Throughout this process, I learned the techniques in conducting a phone intervie
 
 ## Persons & Journey Maps
 
+![DH199 - Persona](https://user-images.githubusercontent.com/59623131/80908122-20d3e580-8cd2-11ea-83a3-09b6647e6101.png)
+
+
