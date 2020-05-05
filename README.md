@@ -138,5 +138,5 @@ Isabella checks her email and realizes that her alumni panel changed their locat
 
 **User 1** | **User 2** | **User 3**
 ------------ | ----------------- | --------------
-![Image1]<img width="565" alt="Screen Shot 2020-05-05 at 1 11 02 AM" src="https://user-images.githubusercontent.com/59623131/81046557-84dee100-8e6d-11ea-907e-571d19fd9858.png">|![Image2]<img width="483" alt="Screen Shot 2020-05-05 at 1 11 34 AM" src="https://user-images.githubusercontent.com/59623131/81046563-87d9d180-8e6d-11ea-8c21-bf3eca2d90f0.png">|![Image3]<img width="497" alt="Screen Shot 2020-05-05 at 1 11 48 AM" src="https://user-images.githubusercontent.com/59623131/81046573-8ad4c200-8e6d-11ea-92a8-7158ef640ecc.png">
+<img width="565" alt="Screen Shot 2020-05-05 at 1 11 02 AM" src="https://user-images.githubusercontent.com/59623131/81046557-84dee100-8e6d-11ea-907e-571d19fd9858.png">|<img width="483" alt="Screen Shot 2020-05-05 at 1 11 34 AM" src="https://user-images.githubusercontent.com/59623131/81046563-87d9d180-8e6d-11ea-8c21-bf3eca2d90f0.png">|<img width="497" alt="Screen Shot 2020-05-05 at 1 11 48 AM" src="https://user-images.githubusercontent.com/59623131/81046573-8ad4c200-8e6d-11ea-92a8-7158ef640ecc.png">
 
