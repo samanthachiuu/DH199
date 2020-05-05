@@ -132,5 +132,8 @@ Isabella checks her email and realizes that her alumni panel changed their locat
 --------------------------------
 
 ### Low-Fidelity Prototype
+<img width="625" alt="Screen Shot 2020-05-05 at 1 09 57 AM" src="https://user-images.githubusercontent.com/59623131/81046401-2a458500-8e6d-11ea-9830-1622258e4b99.png">
+
+### User's Feedback
 
 
