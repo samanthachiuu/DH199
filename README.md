@@ -130,3 +130,7 @@ Isabella learns a lot of historical information about the architecture of Royce 
 Isabella checks her email and realizes that her alumni panel changed their location last minute. She sees that the new location of the panel is somewhere she has not heard of before called Bombshelter. Usually, Isabella would look it up on Google to see where it is and find any information about the building. She would realize that it is in the south side of campus that she is not very familiar with. She gets frustrated because she is running late and expected herself to know UCLA better. It would have taken her an extra 10 to 15 minutes to find and get to the building. The rest of the alumni also had the same problem as her. However, now she can use the interactive map and search up the name of the building. Isabella would type Bombshelter and get step-by-step instructions on how to get there in the least amount of time from where you are located. It can also let you filter which route you want to go - for example, walking a more scenic route if you aren’t in a time constraint. 
 
 --------------------------------
+
+### Low-Fidelity Prototype
+
+
