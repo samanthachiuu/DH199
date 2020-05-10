@@ -116,17 +116,17 @@ Throughout this process, I learned the techniques in conducting a phone intervie
 
 ![DH199](https://user-images.githubusercontent.com/59623131/80908156-58db2880-8cd2-11ea-9a93-e29dd99099a8.png)
 
-### User’s Journey Map & Scenario 1
+### Isabella's Architecture Tour with Interactive Map
 Isabella is coming back to UCLA for an alumni panel. She takes off early from work to walk around the school and explore what has changed in the past year and a half since she’s been a student. As she walks by Royce Hall, she stops and admires the beautiful architecture of the building. She thinks back to all the times when she was a student and walked by Royce but have not fully enjoyed all the designs and history that is in that building. Because she is a graphic designer that designs different parts of buildings, she can’t help but wonder who built Royce and why this designer decided to build the building in this way. She tries to look up some basic information but all it gives her is Jstor scholarly articles that she does not want to read through and comprehend. Instead, she can now use the interactive map on the app and it will give you the option to click find your location, search up a specific building you want to learn about, or start a complete historical architecture tour. Isabella would first tap on the find her location and immediately it will show a first person view of what she is looking at through the app. Since she is standing in front of Royce, she will just tap the building and it will provide a summary of the historical facts of the architecture and fun facts about the building. She clicks the live version to get more of a personable tour of the architecture. 
 
 --------------------------------
 
-### User's Journey Map & Scenario 2
+### Isabella's Experience and Activity Feed
 Isabella learns a lot of historical information about the architecture of Royce Hall and is very satisfied. However, she wants to have more of a personal connection to the building and other people that have encountered this building. She can now go to the geotag icon and search bar will pop up. Isabella types Royce Hall and it brings up an image and a public discussion forum of how others have experienced this building. People can share their stories and comments that they want others to hear about too, and feel a real connection to how people spend their time there enjoying the art of the building. Isabella will also be able to leave her own story and pictures to mark the date and time when she has encountered the building. 
 
 ----------------------------------
 
-### User's Journey Map & Scenario 3
+### Isabella's Directional Map with Filters
 Isabella checks her email and realizes that her alumni panel changed their location last minute. She sees that the new location of the panel is somewhere she has not heard of before called Bombshelter. Usually, Isabella would look it up on Google to see where it is and find any information about the building. She would realize that it is in the south side of campus that she is not very familiar with. She gets frustrated because she is running late and expected herself to know UCLA better. It would have taken her an extra 10 to 15 minutes to find and get to the building. The rest of the alumni also had the same problem as her. However, now she can use the interactive map and search up the name of the building. Isabella would type Bombshelter and get step-by-step instructions on how to get there in the least amount of time from where you are located. It can also let you filter which route you want to go - for example, walking a more scenic route if you aren’t in a time constraint. 
 
 --------------------------------
