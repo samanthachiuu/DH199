@@ -147,6 +147,8 @@ Isabella checks her email and realizes that her alumni panel changed their locat
 ### Wire Flows and Sketch of Prototype:
 <img width="625" alt="Screen Shot 2020-05-05 at 1 09 57 AM" src="https://user-images.githubusercontent.com/59623131/81046401-2a458500-8e6d-11ea-9830-1622258e4b99.png">
 
+--------------------------------
+
 ### User's Feedback:
 
 **User 1** | **User 2** | **User 3**
@@ -155,7 +157,10 @@ Isabella checks her email and realizes that her alumni panel changed their locat
 
 The user's overall feedback is to add be more clear with my buttons because they were unsure where to tap or where to go. Also, I should be more clear with some of the words, such as "Message us!". There were suggestions on adding incentives for users within the geo-tag section where users can get free vouchers for things to do at UCLA. Additionally, I should work on my filters for my directions sections so it is clear to the user which button to select and how many. 
 
-### Low-Fidelity Prototype
+## Low-Fidelity Prototype
 <img width="953" alt="Screen Shot 2020-05-12 at 10 37 41 PM" src="https://user-images.githubusercontent.com/59623131/81775226-4797d600-94a1-11ea-89f9-ffd149c2b8cc.png">
 <img width="941" alt="Screen Shot 2020-05-12 at 10 38 52 PM" src="https://user-images.githubusercontent.com/59623131/81775279-6302e100-94a1-11ea-872d-5b257dc9f575.png">
 <img width="905" alt="Screen Shot 2020-05-12 at 10 39 32 PM" src="https://user-images.githubusercontent.com/59623131/81775314-78780b00-94a1-11ea-8333-e75f89fd7658.png">
+
+### Low-Fidelity Testing
+
