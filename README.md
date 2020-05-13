@@ -102,7 +102,22 @@ The research method I decided to do is a phone interview with one of the campus 
 [view...](https://docs.google.com/document/d/1Ed5NBZPO8Nm6eO4f1cfKMQZv78-98mTA9WqHzhNIOJM/edit?usp=sharing)|[view...](https://docs.google.com/document/d/10-FsOEX7I2SuvV_-xeW7G-F7q_UTDsj4kkMP1j3ucNw/edit?usp=sharing)|[view...](https://drive.google.com/file/d/1WpJXk3PP87Ycqw0vSuWlEJTgMrf9d4Im/view?usp=sharing)|[view...](https://docs.google.com/spreadsheets/d/15nUpnfnT3Ax_3uhRSAfhKitBTKW3rX5pvhPuNaiVYYg/edit?usp=sharing)
 -----------------------
 
-### Findings
+### Findings & Analysis
+
+
+
+To analyze my data, I decided to do a keyword finding by looking through all of my interviews. I listed all the important keywords and grouped them into sections that I felt went together. From the groupings, I found 5 few categories.
+
+- Flexibility
+- Detailed Design & Appearance 
+- Context & Experience
+- Process of History
+- Feeling Connected & Included 
+
+-----------------------------------
+
+
+
 Through my research, I found that users needs are the accessibility to the application, the connection to others and themselves, and the importance of an interactive and in-person walk through of the campus. Some design requirements would include an interactive and personable map where users are able to feel like they are actually on campus exploring the buildings, and features that allow users to filter the information to the specific user wants and needs. 
 
 -------------------------
