@@ -104,7 +104,8 @@ The research method I decided to do is a phone interview with one of the campus 
 
 ### Findings & Analysis
 
-
+<img width="900" alt="Screen Shot 2020-05-12 at 6 39 47 PM" src="https://user-images.githubusercontent.com/59623131/81761968-4904d680-9480-11ea-8aaf-db8cf0eba063.png">
+<img width="422" alt="Screen Shot 2020-05-12 at 6 39 30 PM" src="https://user-images.githubusercontent.com/59623131/81761975-4b673080-9480-11ea-8549-c67f76accabd.png">
 
 To analyze my data, I decided to do a keyword finding by looking through all of my interviews. I listed all the important keywords and grouped them into sections that I felt went together. From the groupings, I found 5 few categories.
 
