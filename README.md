@@ -103,12 +103,12 @@ The research method I decided to do is a phone interview with one of the campus 
 -----------------------
 
 ### Findings & Analysis
-----------------------------
-## Keyword Finding
+
+#### Keyword Finding
 
 <img width="900" alt="Screen Shot 2020-05-12 at 6 39 47 PM" src="https://user-images.githubusercontent.com/59623131/81761968-4904d680-9480-11ea-8aaf-db8cf0eba063.png">
 
-## Keyword Grouping
+#### Keyword Grouping
 
 <img width="422" alt="Screen Shot 2020-05-12 at 6 39 30 PM" src="https://user-images.githubusercontent.com/59623131/81761975-4b673080-9480-11ea-8549-c67f76accabd.png">
 
