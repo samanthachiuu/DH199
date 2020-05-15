@@ -170,13 +170,11 @@ The user's overall feedback is to add be more clear with my buttons because they
 
 ### Low-Fidelity Testing:
 
-#### [Revision] Interactive Map and Visual Tour:
+#### Testing:
 <img width="912" alt="Screen Shot 2020-05-12 at 10 41 34 PM" src="https://user-images.githubusercontent.com/59623131/81775484-c68d0e80-94a1-11ea-92b0-5e971666902c.png">
 
-#### Feature 2:
 <img width="801" alt="Screen Shot 2020-05-12 at 10 42 30 PM" src="https://user-images.githubusercontent.com/59623131/81775541-e15f8300-94a1-11ea-92e7-21bfea1e86d5.png">
 
-#### Feature 3:
 <img width="814" alt="Screen Shot 2020-05-12 at 10 43 16 PM" src="https://user-images.githubusercontent.com/59623131/81775607-005e1500-94a2-11ea-85ea-3fc2e54d1522.png">
 
 ### Reflection:
