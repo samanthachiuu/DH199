@@ -162,15 +162,15 @@ The user's overall feedback is to add be more clear with my buttons because they
 #### Interactive Map and Visual Tour:
 <img width="898" alt="Screen Shot 2020-05-14 at 11 54 44 PM" src="https://user-images.githubusercontent.com/59623131/82087315-b4c78900-96a4-11ea-8e0f-6d83747bf116.png">
 
-#### :
+#### Activity Feed and Sharing Stories:
 <img width="929" alt="Screen Shot 2020-05-15 at 12 09 21 AM" src="https://user-images.githubusercontent.com/59623131/82087328-babd6a00-96a4-11ea-920a-adf78ddd83af.png">
 
-#### Feature 3:
+#### Personalized Tour and Filters:
 <img width="936" alt="Screen Shot 2020-05-15 at 12 03 08 AM" src="https://user-images.githubusercontent.com/59623131/82087336-bf821e00-96a4-11ea-9a7e-2cad3ff3f4a2.png">
 
 ### Low-Fidelity Testing:
 
-#### Feature 1:
+#### [Revision] Interactive Map and Visual Tour:
 <img width="912" alt="Screen Shot 2020-05-12 at 10 41 34 PM" src="https://user-images.githubusercontent.com/59623131/81775484-c68d0e80-94a1-11ea-92b0-5e971666902c.png">
 
 #### Feature 2:
