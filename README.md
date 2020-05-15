@@ -171,11 +171,17 @@ The user's overall feedback is to add be more clear with my buttons because they
 ### Low-Fidelity Testing:
 
 #### Testing:
+
 <img width="912" alt="Screen Shot 2020-05-12 at 10 41 34 PM" src="https://user-images.githubusercontent.com/59623131/81775484-c68d0e80-94a1-11ea-92b0-5e971666902c.png">
 
 <img width="801" alt="Screen Shot 2020-05-12 at 10 42 30 PM" src="https://user-images.githubusercontent.com/59623131/81775541-e15f8300-94a1-11ea-92e7-21bfea1e86d5.png">
 
 <img width="814" alt="Screen Shot 2020-05-12 at 10 43 16 PM" src="https://user-images.githubusercontent.com/59623131/81775607-005e1500-94a2-11ea-85ea-3fc2e54d1522.png">
 
-### Reflection:
-From my low-fidelity testing, I want to the wireframes of the architectural tour with focusing on the detailed images rather than the bullet points on the facts. Additionally, I need to make it more clear to the user when they are on the tour and what kind of tour they are on. 
+#### Revisions:
+- Using the "my location" feature as part of the interactive map so that users can "use" the map and interact with it
+- Changing the layout of the tour by changing the screen to emphasize the pictures and detailed visuals of the building rather than the bullet points of the facts
+- Showing more of a bold feature by changing the color of the like button so users can see it better
+- Leaving the filter icon on the screen so users know when they are in the filters setting
+
+## High-Fidelity Prototype
