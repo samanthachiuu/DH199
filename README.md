@@ -159,14 +159,14 @@ The user's overall feedback is to add be more clear with my buttons because they
 
 ## Low-Fidelity Prototype
 
-#### Feature 1:
-<img width="953" alt="Screen Shot 2020-05-12 at 10 37 41 PM" src="https://user-images.githubusercontent.com/59623131/81775226-4797d600-94a1-11ea-89f9-ffd149c2b8cc.png">
+#### Interactive Map and Visual Tour:
+<img width="898" alt="Screen Shot 2020-05-14 at 11 54 44 PM" src="https://user-images.githubusercontent.com/59623131/82087315-b4c78900-96a4-11ea-8e0f-6d83747bf116.png">
 
-#### Feature 2:
-<img width="941" alt="Screen Shot 2020-05-12 at 10 38 52 PM" src="https://user-images.githubusercontent.com/59623131/81775279-6302e100-94a1-11ea-872d-5b257dc9f575.png">
+#### :
+<img width="929" alt="Screen Shot 2020-05-15 at 12 09 21 AM" src="https://user-images.githubusercontent.com/59623131/82087328-babd6a00-96a4-11ea-920a-adf78ddd83af.png">
 
 #### Feature 3:
-<img width="905" alt="Screen Shot 2020-05-12 at 10 39 32 PM" src="https://user-images.githubusercontent.com/59623131/81775314-78780b00-94a1-11ea-8333-e75f89fd7658.png">
+<img width="936" alt="Screen Shot 2020-05-15 at 12 03 08 AM" src="https://user-images.githubusercontent.com/59623131/82087336-bf821e00-96a4-11ea-9a7e-2cad3ff3f4a2.png">
 
 ### Low-Fidelity Testing:
 
