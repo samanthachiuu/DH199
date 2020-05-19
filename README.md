@@ -185,3 +185,5 @@ The user's overall feedback is to add be more clear with my buttons because they
 - Leaving the filter icon on the screen so users know when they are in the filters setting
 
 ## High-Fidelity Prototype
+
+<iframe style="border: none;" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FqWXWapWUUxm6PAMNbeVyRS%2FLArc%3Fnode-id%3D145%253A315" allowfullscreen></iframe>
