@@ -1,4 +1,4 @@
-# DH199 Project: User Experience Design in Exploring UCLA Art & Architecture [LArc] 
+# DH199 Project: User Experience Design in Exploring UCLA Art & Architecture
 # Samantha Chiu
 
 ## Project Overview
