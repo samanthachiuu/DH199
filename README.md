@@ -186,6 +186,18 @@ The user's overall feedback is to add be more clear with my buttons because they
 
 ## High-Fidelity Prototype
 
+### Interactive Map
+<img width="734" alt="Screen Shot 2020-05-19 at 11 33 21 PM" src="https://user-images.githubusercontent.com/59623131/82413087-9dccc200-9a29-11ea-87dd-bfbb421e6f30.png">
+
+### Visual-focused Self-Guided Tour
+<img width="713" alt="Screen Shot 2020-05-19 at 11 33 54 PM" src="https://user-images.githubusercontent.com/59623131/82413096-a1604900-9a29-11ea-9c34-bab0fe882fa6.png">
+
+### Activity Feed and Sharing Own Story
+<img width="506" alt="Screen Shot 2020-05-19 at 11 34 58 PM" src="https://user-images.githubusercontent.com/59623131/82413100-a45b3980-9a29-11ea-8674-ecbf3ae663b1.png">
+
+### Personalized Tour with Filters
+<img width="705" alt="Screen Shot 2020-05-19 at 11 35 25 PM" src="https://user-images.githubusercontent.com/59623131/82413105-a6bd9380-9a29-11ea-939f-a7897ca23e49.png">
+
 [Link to live high-fidelity prototype](https://www.figma.com/file/qWXWapWUUxm6PAMNbeVyRS/LArc?node-id=0%3A1)
 
 <iframe style="border: none;" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FqWXWapWUUxm6PAMNbeVyRS%2FLArc%3Fnode-id%3D145%253A315" allowfullscreen></iframe>
