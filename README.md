@@ -201,3 +201,13 @@ The user's overall feedback is to add be more clear with my buttons because they
 [Link to live high-fidelity prototype](https://www.figma.com/file/qWXWapWUUxm6PAMNbeVyRS/LArc?node-id=0%3A1)
 
 <iframe style="border: none;" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FqWXWapWUUxm6PAMNbeVyRS%2FLArc%3Fnode-id%3D145%253A315" allowfullscreen></iframe>
+
+### Changes from Previous Iterations:
+**Task 1: Interactive Map and Visual Tour**
+>Originally, I had Isabella use the interactive map while she was not on campus, but after multiple testing and research, I realized that it would be helpful to see Isabella use the interactive map while she was there so she can use the "find my location" feature and move around the interactive map. I also changed the format of the tour to focus on the visual images of the architecture rather than the words and facts. I used a swipe up and swipe down feature so it is easy for users to navigate.  
+
+**Task 2: Isabella's Story and Activity Feed**
+> The only changes I made here was to make it more clear for the user to use the "drop down" when you choose the building you want to write about. I added a down arrow so users will be able to see it better. I also changed the wording of "save" to "post" and added a "draft" feature so that users can save their comment for later. 
+
+**Task 3: Isabella's Personalized Tour with Filters**
+> Some things I changed in this task was the wording of the "save" in the filter to "start tour" so that users know that after choosing their options, it will start a personalized tour. Instead of "Step-by-Step Itinerary", I changed the feature to "Near Me" so that users can see what buildings, food, or libraries are near the building they are touring. This "Near Me" page is also interactive, where it allows users to skip ahead and go to the place that they want to see. 
