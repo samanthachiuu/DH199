@@ -11,13 +11,13 @@ these buildings and understand why these buildings are called what they are call
 exploration of the hidden or text-documented history of UCLA can retell the significant meaning to the
 visitors and the prospect students of how UCLA contributed to the various areas of Humanities, Art and filming,
 Science and Engineering, and Medical and Biological Sciences. The important building I will be exploring is
-Haines Hall because throughout my career at UCLA, my main building was Haines and I have a connection
-to it. To produce an interactive prototype of a mobile app as a proof of concept.
+Royce Hall because throughout my career at UCLA, my main building was Royce and I have a connection
+to it. 
 
 --------------------
 
 ### Expected Outcome:
-The expected outcome of my project is a map-directory and walkthrough of UCLA architures in history, specifically focusing on Haines Hall. I will adopt an interative user-centered design process using methods such as conducting user research, creating personas/scenarios, and proposing multiple versions of the wireflow (low-fidelity) and interactive prototype (high-fidelity) for usability testing.
+The expected outcome of my project is a map-directory and walkthrough of UCLA architures in history, specifically focusing on Royce Hall. I will adopt an interative user-centered design process using methods such as conducting user research, creating personas/scenarios, and proposing multiple versions of the wireflow (low-fidelity) and interactive prototype (high-fidelity) for usability testing.
 
 --------------------
 
@@ -37,7 +37,7 @@ The expected outcome of my project is a map-directory and walkthrough of UCLA ar
 ## Literature Review & Secondary Research
 
 ### Research Question:
-How does the user experience design of a location-based map help engage users to increase their understanding in the history of architecture?   
+How does the user experience design of a location-based map, filters, and a sharing platform help engage users to increase their understanding and connectedness in the history of architecture?   
 
 --------------------
 
