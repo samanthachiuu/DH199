@@ -190,7 +190,7 @@ The user's overall feedback is to add be more clear with my buttons because they
 <img width="722" alt="Screen Shot 2020-05-31 at 5 16 20 PM" src="https://user-images.githubusercontent.com/59623131/83366264-bc548680-a362-11ea-81a2-5982011afe67.png">
 
 ### Visual-focused Self-Guided Tour
-<img width="713" alt="Screen Shot 2020-05-19 at 11 33 54 PM" src="https://user-images.githubusercontent.com/59623131/82413096-a1604900-9a29-11ea-9c34-bab0fe882fa6.png">
+<img width="724" alt="Screen Shot 2020-05-31 at 5 21 10 PM" src="https://user-images.githubusercontent.com/59623131/83366351-54eb0680-a363-11ea-8a02-328cd991264f.png">
 
 ### Activity Feed and Sharing Own Story
 <img width="506" alt="Screen Shot 2020-05-19 at 11 34 58 PM" src="https://user-images.githubusercontent.com/59623131/82413100-a45b3980-9a29-11ea-8674-ecbf3ae663b1.png">
