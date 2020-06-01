@@ -193,10 +193,10 @@ The user's overall feedback is to add be more clear with my buttons because they
 <img width="724" alt="Screen Shot 2020-05-31 at 5 21 10 PM" src="https://user-images.githubusercontent.com/59623131/83366351-54eb0680-a363-11ea-8a02-328cd991264f.png">
 
 ### Activity Feed and Sharing Own Story
-<img width="506" alt="Screen Shot 2020-05-19 at 11 34 58 PM" src="https://user-images.githubusercontent.com/59623131/82413100-a45b3980-9a29-11ea-8674-ecbf3ae663b1.png">
+<img width="728" alt="Screen Shot 2020-05-31 at 5 24 45 PM" src="https://user-images.githubusercontent.com/59623131/83366399-af846280-a363-11ea-8028-30c5bbec0682.png">
 
 ### Personalized Tour with Filters
-<img width="705" alt="Screen Shot 2020-05-19 at 11 35 25 PM" src="https://user-images.githubusercontent.com/59623131/82413105-a6bd9380-9a29-11ea-939f-a7897ca23e49.png">
+<img width="650" alt="Screen Shot 2020-05-31 at 5 24 58 PM" src="https://user-images.githubusercontent.com/59623131/83366402-b27f5300-a363-11ea-8140-9a6d65ba752a.png">
 
 [Link to live high-fidelity prototype](https://www.figma.com/file/qWXWapWUUxm6PAMNbeVyRS/LArc?node-id=0%3A1)
 
