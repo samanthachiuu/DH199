@@ -187,7 +187,7 @@ The user's overall feedback is to add be more clear with my buttons because they
 ## High-Fidelity Prototype
 
 ### Interactive Map
-<img width="734" alt="Screen Shot 2020-05-19 at 11 33 21 PM" src="https://user-images.githubusercontent.com/59623131/82413087-9dccc200-9a29-11ea-87dd-bfbb421e6f30.png">
+<img width="722" alt="Screen Shot 2020-05-31 at 5 16 20 PM" src="https://user-images.githubusercontent.com/59623131/83366264-bc548680-a362-11ea-81a2-5982011afe67.png">
 
 ### Visual-focused Self-Guided Tour
 <img width="713" alt="Screen Shot 2020-05-19 at 11 33 54 PM" src="https://user-images.githubusercontent.com/59623131/82413096-a1604900-9a29-11ea-9c34-bab0fe882fa6.png">
