@@ -136,9 +136,7 @@ Throughout this process, I learned the techniques in conducting a phone intervie
 ### Task 3: Isabella's Personalized Tour with Filters:
 >Isabella wants to learn more about Charles E.Young Research Library because when she was a student there, the library was not finished remodeling yet. She goes back to the home page of the interactive map and searches up "Charles" where a drop-down bar pops up with Charles E. Young Research Library. She clicks on it and it brings her to the Charles E. Young tour page. Before she clicks “start tour”, she wants to personalize the tour because she only has 15 minutes to go through the tour. She clicks the filter button and it gives her options of the duration, type of tour, and route of the tour. She chooses 15 minutes, a "live" tour, and the highlights route so she can just learn about the main things of the library. She clicks start tour and she watches the "live video". She wants to see what buildings are nearby the library, so she clicks on the "Near Me" button and it brings her to a page of the buildings that are nearby. She notices that she can filter through what she wants to be listed nearby as well, such as restaurants or libraries or just buildings. Then she clicks on one of the buildings that are listed as nearby called "Dodd Hall" and watches the tour for those buildings as well.
 
---------------------------------
-
-### Wire Flows and Sketch of Prototype:
+## Wire Flows and Sketch of Prototype:
 <img width="625" alt="Screen Shot 2020-05-05 at 1 09 57 AM" src="https://user-images.githubusercontent.com/59623131/81046401-2a458500-8e6d-11ea-9830-1622258e4b99.png">
 
 --------------------------------
