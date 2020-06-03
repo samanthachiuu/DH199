@@ -164,13 +164,13 @@ The user's overall feedback is to add be more clear with my buttons because they
 
 #### Testing:
 
-I tested my low-fidelity prototype with 3 
-
 <img width="912" alt="Screen Shot 2020-05-12 at 10 41 34 PM" src="https://user-images.githubusercontent.com/59623131/81775484-c68d0e80-94a1-11ea-92b0-5e971666902c.png">
 
 <img width="801" alt="Screen Shot 2020-05-12 at 10 42 30 PM" src="https://user-images.githubusercontent.com/59623131/81775541-e15f8300-94a1-11ea-92e7-21bfea1e86d5.png">
 
 <img width="814" alt="Screen Shot 2020-05-12 at 10 43 16 PM" src="https://user-images.githubusercontent.com/59623131/81775607-005e1500-94a2-11ea-85ea-3fc2e54d1522.png">
+
+I tested my low-fidelity prototype with 3 different potential users. One of the users are a college grad, another was a student in college, and one was a parent. The college grad and college student went through the prototype quite quickly but had some trouble following some of the screens and getting to the next screen. She also gave ideas on adding features like "liking a post" so that users can engage in the posts. The parent had a bit more trouble with understanding certain screens and flow. He understood the main function but did not know what some of the icons meant. 
 
 #### Revisions:
 - Using the "my location" feature as part of the interactive map so that users can "use" the map and interact with it
@@ -179,6 +179,9 @@ I tested my low-fidelity prototype with 3
 - Leaving the filter icon on the screen so users know when they are in the filters setting
 
 ## High-Fidelity Prototype
+
+### First Draft of High Fidelity Prototype
+
 
 ### Interactive Map
 <img width="722" alt="Screen Shot 2020-05-31 at 5 16 20 PM" src="https://user-images.githubusercontent.com/59623131/83366264-bc548680-a362-11ea-81a2-5982011afe67.png">
