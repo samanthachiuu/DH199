@@ -180,19 +180,20 @@ I tested my low-fidelity prototype with 3 different potential users. One of the 
 
 ## High-Fidelity Prototype
 
-### First Draft of High Fidelity Prototype
+### First Draft of High-Fidelity Prototype
+<img width="595" alt="Screen Shot 2020-06-02 at 10 57 32 PM" src="https://user-images.githubusercontent.com/59623131/83600927-83640f80-a524-11ea-9a93-939bf576b1a5.png">
 
-
-### Interactive Map
+### Second Draft
+#### Interactive Map
 <img width="722" alt="Screen Shot 2020-05-31 at 5 16 20 PM" src="https://user-images.githubusercontent.com/59623131/83366264-bc548680-a362-11ea-81a2-5982011afe67.png">
 
-### Visual-focused Self-Guided Tour
+#### Visual-focused Self-Guided Tour
 <img width="724" alt="Screen Shot 2020-05-31 at 5 21 10 PM" src="https://user-images.githubusercontent.com/59623131/83366351-54eb0680-a363-11ea-8a02-328cd991264f.png">
 
-### Activity Feed and Sharing Own Story
+#### Activity Feed and Sharing Own Story
 <img width="728" alt="Screen Shot 2020-05-31 at 5 24 45 PM" src="https://user-images.githubusercontent.com/59623131/83366399-af846280-a363-11ea-8028-30c5bbec0682.png">
 
-### Personalized Tour with Filters
+#### Personalized Tour with Filters
 <img width="650" alt="Screen Shot 2020-05-31 at 5 24 58 PM" src="https://user-images.githubusercontent.com/59623131/83366402-b27f5300-a363-11ea-8140-9a6d65ba752a.png">
 
 [Link to live high-fidelity prototype](https://www.figma.com/file/qWXWapWUUxm6PAMNbeVyRS/LArc?node-id=0%3A1)
