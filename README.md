@@ -89,8 +89,7 @@ The research methods I decided to do are phone interviews with one of the campus
 ------------ | 
 ![UCLA Tour](https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/e5/3c/b5/e53cb5c4-142d-246d-db63-69b77a670900/pr_source.png/750x750bb.jpeg)|
 
-### Observation Notes
-[view...](https://docs.google.com/document/d/1PcV1yO56IycTNLiAUojWfQMGolhKHpW-axcbpkmYGUY/edit?usp=sharing)
+[Observation Notes](https://docs.google.com/document/d/1PcV1yO56IycTNLiAUojWfQMGolhKHpW-axcbpkmYGUY/edit?usp=sharing)
 
 **Field Research Script** | **Interview Transcript** | **Audio Recording Interview** | **User Research Data**
 -------------------- | --------------------- | ------------------------- | ----------------------
