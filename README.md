@@ -180,10 +180,10 @@ I tested my low-fidelity prototype with 3 different potential users. One of the 
 
 ## High-Fidelity Prototype
 
-### First Draft of High-Fidelity Prototype
+### First Draft of High-Fidelity Prototype:
 <img width="595" alt="Screen Shot 2020-06-02 at 10 57 32 PM" src="https://user-images.githubusercontent.com/59623131/83600927-83640f80-a524-11ea-9a93-939bf576b1a5.png">
 
-### Second Draft of High-Fidelity Prototype
+### Second Draft of High-Fidelity Prototype:
 #### Interactive Map
 <img width="722" alt="Screen Shot 2020-05-31 at 5 16 20 PM" src="https://user-images.githubusercontent.com/59623131/83366264-bc548680-a362-11ea-81a2-5982011afe67.png">
 
@@ -210,7 +210,7 @@ I tested my low-fidelity prototype with 3 different potential users. One of the 
 **Task 3: Isabella's Personalized Tour with Filters**
 > Some things I changed in this task was the wording of the "save" in the filter to "start tour" so that users know that after choosing their options, it will start a personalized tour. Instead of "Step-by-Step Itinerary", I changed the feature to "Near Me" so that users can see what buildings, food, or libraries are near the building they are touring. This "Near Me" page is also interactive, where it allows users to skip ahead and go to the place that they want to see. 
 
-### Color Palette 
+### Color Palette: 
 I decided to change the color of my application because I wanted a color that was more eye-catching and brighter so that users will immediately notice the different colors on the app. I also wanted to keep the theme of UCLA with the blue and yellow colors. I chose a brighter yellow because I wanted users to feel happy and welcomed to use the app and associate it with the institution. The blue is similar to the shade of yellow, where it is bright and exciting, yet contrasting the yellow so that users will see the color immediately. 
 
 <img width="313" alt="Screen Shot 2020-06-02 at 11 21 48 PM" src="https://user-images.githubusercontent.com/59623131/83602808-1bafc380-a528-11ea-90f6-03237e304828.png">
@@ -218,11 +218,14 @@ I decided to change the color of my application because I wanted a color that wa
 ## Usability Testing 
 I tested my high-fidelity prototype withh over 5 potential user individuals where I either had to do it through an online zoom call or in person if accessible. Most of them filled out the google form as I walked them through the testing and tasks. All of the partipants are around the same age and similar demographics. They also all have a connection to UCLA in some way, but their experience levels differ. 
 
-Some design revisions I made from the usability testing were changing the icon for the "find my location" in the interactive map because I realized there was a more up-to-date icon that people would recognize more. Additionally, I moved it to the top right of the screen because most users are right handed and have a tendency of looking on the right side and top first. 
+### Revisions:
+Some design revisions I made from the usability testing were changing the icon for the "find my location" in the interactive map because I realized there was a more up-to-date icon that people would recognize more. Additionally, I moved the location of it to the top right of the screen because most users are right handed and have a tendency of looking on the right side and top first. Furthermore, I added a title on the page where users share their experiences about the architecture so that it is more clear what page they are on. 
 
 [Link to Google Form](https://forms.gle/XfbvVNgFDQhPCXMUA)
 
 [Link to Usability Testing Videos & Data](https://drive.google.com/file/d/1GXfBmKVC6xKuW5e71IFAlvTq6pU33sHc/view?usp=sharing)
 
 ## Evaluation
+From analyzing the data collected from my usability testing, I believe that I was able to answer my research question. I found that design features, such as location-based interactive maps, personalized searches, and activity feed platforms help user feel more connected and allows them to learn more about the history of architecture. According to my data, about **88%** of users were able to complete the tasks in an efficent manner and thought it was quite easy. The 
 
+75% of the users thought that they felt more connected to the history of the architure from the specific design features. 
