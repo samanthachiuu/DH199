@@ -218,6 +218,11 @@ I decided to change the color of my application because I wanted a color that wa
 ## Usability Testing 
 I tested my high-fidelity prototype withh over 5 potential user individuals where I either had to do it through an online zoom call or in person if accessible. Most of them filled out the google form as I walked them through the testing and tasks. All of the partipants are around the same age and similar demographics. They also all have a connection to UCLA in some way, but their experience levels differ. 
 
+Some design revisions I made from the usability testing were changing the icon for the "find my location" in the interactive map because I realized there was a more up-to-date icon that people would recognize more. Additionally, I moved it to the top right of the screen because most users are right handed and have a tendency of looking on the right side and top first. 
+
 [Link to Google Form](https://forms.gle/XfbvVNgFDQhPCXMUA)
 
 [Link to Usability Testing Videos & Data](https://drive.google.com/file/d/1GXfBmKVC6xKuW5e71IFAlvTq6pU33sHc/view?usp=sharing)
+
+## Evaluation
+
