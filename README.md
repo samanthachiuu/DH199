@@ -183,7 +183,7 @@ I tested my low-fidelity prototype with 3 different potential users. One of the 
 ### First Draft of High-Fidelity Prototype
 <img width="595" alt="Screen Shot 2020-06-02 at 10 57 32 PM" src="https://user-images.githubusercontent.com/59623131/83600927-83640f80-a524-11ea-9a93-939bf576b1a5.png">
 
-### Second Draft
+### Second Draft of High-Fidelity Prototype
 #### Interactive Map
 <img width="722" alt="Screen Shot 2020-05-31 at 5 16 20 PM" src="https://user-images.githubusercontent.com/59623131/83366264-bc548680-a362-11ea-81a2-5982011afe67.png">
 
