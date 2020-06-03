@@ -216,5 +216,7 @@ I decided to change the color of my application because I wanted a color that wa
 <img width="313" alt="Screen Shot 2020-06-02 at 11 21 48 PM" src="https://user-images.githubusercontent.com/59623131/83602808-1bafc380-a528-11ea-90f6-03237e304828.png">
 
 ## Usability Testing 
+I tested my high-fidelity prototype withh over 5 potential user individuals where I either had to do it through an online zoom call or in person if accessible. Most of them filled out the google form as I walked them through the testing and tasks. All of the partipants are around the same age and similar demographics. They also all have a connection to UCLA in some way, but their experience levels differ. 
 
-
+[Link to Google Form](https://forms.gle/XfbvVNgFDQhPCXMUA)
+[Link to Usability Testing Videos & Data](https://drive.google.com/file/d/1GXfBmKVC6xKuW5e71IFAlvTq6pU33sHc/view?usp=sharing)
