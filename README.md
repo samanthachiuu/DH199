@@ -210,6 +210,10 @@ I tested my low-fidelity prototype with 3 different potential users. One of the 
 **Task 3: Isabella's Personalized Tour with Filters**
 > Some things I changed in this task was the wording of the "save" in the filter to "start tour" so that users know that after choosing their options, it will start a personalized tour. Instead of "Step-by-Step Itinerary", I changed the feature to "Near Me" so that users can see what buildings, food, or libraries are near the building they are touring. This "Near Me" page is also interactive, where it allows users to skip ahead and go to the place that they want to see. 
 
+### Color Palette 
+I decided to change the color of my application because I wanted a color that was more eye-catching and brighter so that users will immediately notice the different colors on the app. I also wanted to keep the theme of UCLA with the blue and yellow colors. I chose a brighter yellow because I wanted users to feel happy and welcomed to use the app and associate it with the institution. The blue is similar to the shade of yellow, where it is bright and exciting, yet contrasting the yellow so that users will see the color immediately. 
+
+
 ## Usability Testing 
 
 
