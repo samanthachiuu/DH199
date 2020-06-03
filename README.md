@@ -213,6 +213,7 @@ I tested my low-fidelity prototype with 3 different potential users. One of the 
 ### Color Palette 
 I decided to change the color of my application because I wanted a color that was more eye-catching and brighter so that users will immediately notice the different colors on the app. I also wanted to keep the theme of UCLA with the blue and yellow colors. I chose a brighter yellow because I wanted users to feel happy and welcomed to use the app and associate it with the institution. The blue is similar to the shade of yellow, where it is bright and exciting, yet contrasting the yellow so that users will see the color immediately. 
 
+<img width="313" alt="Screen Shot 2020-06-02 at 11 21 48 PM" src="https://user-images.githubusercontent.com/59623131/83602808-1bafc380-a528-11ea-90f6-03237e304828.png">
 
 ## Usability Testing 
 
