@@ -228,7 +228,7 @@ Some design revisions I made from the usability testing were changing the icon f
 
 [Link to Google Form](https://forms.gle/XfbvVNgFDQhPCXMUA)
 
-[Link to Usability Testing Videos & Data](https://drive.google.com/file/d/1GXfBmKVC6xKuW5e71IFAlvTq6pU33sHc/view?usp=sharing)
+[Link to Usability Testing Videos & Data](https://drive.google.com/drive/u/0/folders/1rqc0_LNDFTLEX1iZwGk0RIZAOqxCmpRW)
 
 ## Evaluation
 Overall, the data shows that we can use design features better understand the history of architecture and tell your own story. From analyzing the data collected from my usability testing, I believe that I was able to answer my research question. I found that design features, such as location-based interactive maps, personalized searches, and activity feed platforms help user feel more connected and allows them to learn more about the history of architecture. According to my data, about an average of **88%** of users were able to complete the tasks in an efficent manner and thought the tasks were easy (100% being easy). To measure the connectedness the users felt to the history due to the design features, I asked users to answer a question regarding their "connectness" to the history of architecture. An average of **75%** of the users thought that they felt the most connected to the history of the architure from the specific design features. Their average answer was "somewhat likely". Therefore, I believe that I was able to answer my research question. However, if I had more time, I would want to learn more about how users felt when they performed each of the tasks using the design features, such as the interactive map or the personalized filtered search so that I can get a better understanding of how they felt connected to the history. 
